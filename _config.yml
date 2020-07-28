@@ -1,3 +1,12 @@
 url: "https://vpicave.club" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "VPI Cave Club" # the name of your site, e.g. ACME Corp.
+
+include:
+  - node_modules
+
+# Specify where sass files are
+sass:
+  load_paths:
+    - _sass
+    - node_modules
