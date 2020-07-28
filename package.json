@@ -1,0 +1,25 @@
+{
+  "name": "vpicave.club",
+  "version": "1.0.0",
+  "description": "This is the official website for the VPI Cave Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cernec1999/vpicave.club.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cernec1999/vpicave.club/issues"
+  },
+  "homepage": "https://github.com/cernec1999/vpicave.club#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
