@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US " }}">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{"/assets/css/main.css" | relative_url }}">
+</head>
+
+<body>
+    <main role="main">
+        {% include navbar.html %}
+        <div class="container-fluid page-header">
+            <span class="text-overlay text-light">
+                <h1 class="display-4">{{ page.title | upcase }}</h1>
+                <p class="small">{{ page.desc }}</p>
+            </span>
+
+            <img class="img-fluid" src="{{page.image | relative_url}}" />
+        </div>
+
+        <div class="container-fluid page-content bg-light text-dark">
+            {{ content }}
+        </div>
+    </main>
+
+    <script src="{{'node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+    <script src="{{'node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+    <script src="{{'node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+</body>
+
+</html>

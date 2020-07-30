@@ -3,3 +3,41 @@
 
 @import "main";
 @import "bootstrap/scss/bootstrap";
+@import "assets/css/variables.scss";
+
+body {
+    background-color: black;
+}
+
+.page-header {
+    padding: 0;
+    position: relative;
+}
+
+.page-header img {
+    z-index: 0;
+    position: relative;
+    max-height: 300px;
+    width: 100%;
+    object-fit: cover;
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+}
+
+.page-header .text-overlay {
+    position: absolute;
+    z-index: 1;
+    margin: auto;
+    overflow: auto;
+    text-align: center;
+    top: 50%; left: 0; bottom: 0; right: 0;
+    transform: translateY(-25%);
+}
+
+.page-content {
+    padding:50px;
+}
+
+.page-content h1 {
+
+}
