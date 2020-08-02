@@ -3,7 +3,6 @@ layout: page
 title: "VPI Cave Club"
 desc: "Student Grotto of the National Speleological Society"
 image: /assets/img/home.jpg
-category: Home
 ---
 
 # About
