@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="{{"/assets/css/main.css" | relative_url }}">
 </head>
 
-<body>
+<body class="vpi-scheme">
     <main role="main">
         {% include navbar.html %}
         <div class="container-fluid page-header">
-            <span class="text-overlay text-light">
+            <span class="text-overlay">
                 <h1 class="display-4">{{ page.title | upcase }}</h1>
                 <p class="small">{{ page.desc }}</p>
             </span>
@@ -20,7 +20,7 @@
             <img class="img-fluid" src="{{page.image | relative_url}}" />
         </div>
 
-        <div class="container-fluid page-content bg-light text-dark">
+        <div class="container-fluid page-content">
             {{ content }}
         </div>
     </main>
