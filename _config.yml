@@ -12,3 +12,10 @@ sass:
     - node_modules
 
 permalink: /:slugified_categories/:title
+
+info:
+  display: true
+  date: "June 12, 2020"
+  title: "COVID-19 Advisory"
+  message: "VPI Cave Club has limited some of our activities due to COVID-19."
+  link: /members/advisory

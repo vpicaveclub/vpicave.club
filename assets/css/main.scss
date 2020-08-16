@@ -8,6 +8,7 @@
 .page-header {
     padding: 0;
     position: relative;
+    overflow: hidden;
 }
 
 .page-header img {
@@ -31,6 +32,10 @@
     transform: translateY(-20%);
 }
 
+.text-overlay {
+    overflow: hidden;
+}
+
 .page-content {
     padding:50px;
 }
@@ -38,5 +43,13 @@
 .vpi-scheme {
     background-color: #212121;
     color: #f8f9fa;
-    font-family: Courier New;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.toast {
+    max-width: 600px !important;
+}
+
+#infoparent {
+    padding: 10px;
 }

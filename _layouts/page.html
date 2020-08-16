@@ -10,6 +10,9 @@
 
 <body class="vpi-scheme">
     <main role="main">
+        {% if site.info.display %}
+        {% include info.html %}
+        {% endif %}
         {% include navbar.html %}
         <div class="container-fluid page-header">
             <span class="text-overlay">
@@ -28,6 +31,28 @@
     <script src="{{'node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
     <script src="{{'node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
     <script src="{{'node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+    <script src="{{'node_modules/js-cookie/src/js.cookie.js' | prepend: site.baseurl}}"></script>
+
+    {% if site.info.display %}
+    <!-- Script for optional toast -->
+    <script>
+        $(document).ready(function(){
+            if (Cookies.get('info-hide') != 'true') {
+                $('#infotoast').toast({
+                    autohide: false
+                })
+                $('#infotoast').toast('show')
+            } else {
+                $('#infoparent').remove()
+            }
+        })
+
+        $('#infotoast').on('hidden.bs.toast', function () {
+            Cookies.set('info-hide', 'true', { expires: 3 })
+            $('#infoparent').remove()
+        })
+    </script>
+    {% endif %}
 </body>
 
 </html>

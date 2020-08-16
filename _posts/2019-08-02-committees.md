@@ -8,3 +8,4 @@ category: Members
 
 # Committees
 
+This page will be updated soon with an up-to-date list of committees and e-board.
