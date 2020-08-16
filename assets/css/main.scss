@@ -5,35 +5,30 @@
 @import "bootstrap/scss/bootstrap";
 @import "assets/css/variables.scss";
 
-.page-header {
+#page-header {
     padding: 0;
+    height: 300px;
     position: relative;
     overflow: hidden;
+    display: flex;
+    align-items: center;
 }
 
-.page-header img {
+#page-header img {
     z-index: 0;
-    position: relative;
-    max-height: 500px;
+    position: absolute;
     width: 100%;
+    height: 100%;
     object-fit: cover;
     filter: brightness(45%);
     -webkit-filter: brightness(45%);
 }
 
-.page-header .text-overlay {
-    position: absolute;
-    z-index: 1;
-    margin: auto;
-    overflow: auto;
+#text-overlay {
+    z-index: 3;
     text-align: center;
-    height: 100%;
-    top: 100%; left: 0; bottom: 0; right: 0;
-    transform: translateY(-20%);
-}
-
-.text-overlay {
     overflow: hidden;
+    width: 100%;
 }
 
 .page-content {
