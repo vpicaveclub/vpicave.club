@@ -1,0 +1,27 @@
+head:
+    - text: Home
+      url: /
+    - text: Prospective Members
+      subitems:
+          - text: Becoming a Member
+            url: /
+          - text: Membership Requirements
+            url: /
+          - text: Knots Practice
+            url: /
+    - text: Member Info
+      subitems:
+          - text: Email List
+            url: /
+          - text: Constitution and Bylaws
+            url: /
+          - text: Cave Club Committees
+            url: /
+    - text: Go Caving
+      subitems:
+          - text: Getting on a Trip
+            url: /
+          - text: Equipment
+            url: /
+          - text: Clothing
+            url: /
