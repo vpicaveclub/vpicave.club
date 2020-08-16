@@ -3,3 +3,53 @@
 
 @import "main";
 @import "bootstrap/scss/bootstrap";
+@import "assets/css/variables.scss";
+
+.page-header {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.page-header img {
+    z-index: 0;
+    position: relative;
+    max-height: 500px;
+    width: 100%;
+    object-fit: cover;
+    filter: brightness(45%);
+    -webkit-filter: brightness(45%);
+}
+
+.page-header .text-overlay {
+    position: absolute;
+    z-index: 1;
+    margin: auto;
+    overflow: auto;
+    text-align: center;
+    height: 100%;
+    top: 100%; left: 0; bottom: 0; right: 0;
+    transform: translateY(-20%);
+}
+
+.text-overlay {
+    overflow: hidden;
+}
+
+.page-content {
+    padding:50px;
+}
+
+.vpi-scheme {
+    background-color: #212121;
+    color: #f8f9fa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.toast {
+    max-width: 600px !important;
+}
+
+#infoparent {
+    padding: 10px;
+}
