@@ -15,7 +15,7 @@ In recent years, the club has only expanded in membership. We strive in excellen
 
 # Caving
 
-The Virginia Tech community is blessed to have a plethora of caving locations around the blacksburg community. Because of this, our club turns a relatively niche activity into a hobby for a total of almost 500 members (active and alumni).
+The Virginia Tech community is blessed to have a plethora of caving locations around the Blacksburg community. Because of this, our club turns a relatively niche activity into a hobby for a total of almost 500 members (active and alumni).
 
 A larger community generated a wide range of caving types – including, but not limited to, horizontal caving, vertical caving, sport caving, research caving, and surveying.
 
