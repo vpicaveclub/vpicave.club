@@ -5,9 +5,9 @@ desc: For administrative purposes
 image: /assets/img/home.jpg
 category: Members
 committees:
-  - name: "Officers"
+  - name: "Executive"
     desc: "The elected officers of this club are the president, vice president, secretary, and treasurer. These are the only elected positions. Each individual officer role is described in the constitution."
-    contact: "mailto:president@vpicaveclub.org"
+    contact: "mailto:exec@vpicaveclub.org"
     members:
       - name: "Emilie Hollingsworth"
         role: "President"
@@ -15,13 +15,16 @@ committees:
         contact: mailto:president@vpicaveclub.org
       - name: "Chad Casella"
         role: "Vice President"
+        img: /assets/img/committees/casella.jpg
         contact: mailto:vp@vpicaveclub.org
       - name: "Meredith Blanco"
         role: "Treasurer"
         img: /assets/img/committees/blanco.jpg
+        contact: mailto:treasurer@vpicaveclub.org
       - name: "Jay Hedeman"
         role: "Secretary"
         img: /assets/img/committees/hedeman.jpg
+        contact: mailto:secretary@vpicaveclub.org
   - name: "Safety and Techniques"
     desc: "This is the club’s most important committee. It is responsible for communicating current safe caving practices to the members, handling reports of unsafe caving practices, and maintaining club equipment used for cave rescue. Members are good people to talk to about anything related to caving. Membership is automatically extended to present and past vice presidents."
     contact: "mailto:safety@vpicaveclub.org"
@@ -33,7 +36,9 @@ committees:
     contact: "mailto:conservation@vpicaveclub.org"
     members:
       - name: "John Fruhauf"
+        img: /assets/img/committees/fruhauf.jpg
       - name: "Vincent Snell"
+        img: /assets/img/committees/snell.jpg
   - name: "Banquet"
     desc: "This committee is responsible for organizing our annual awards banquet. This includes finding a place to hold the banquet, arranging for the meal, mailing invitations, decorating the dining area, lining up a program, and many other duties."
     contact: "mailto:banquet@vpicaveclub.org"
@@ -49,7 +54,7 @@ committees:
     desc: "This committee helps get the word about our club out around campus. This includes organizing special events, creating and distributing fliers and table tents, and anything else which announces our club so interested students can find us."
     contact: "mailto:publicity@vpicaveclub.org"
     members:
-      - name: "Madeline Pels"
+      - name: "Madeleine Pels"
         img: /assets/img/committees/pels.jpg
   - name: "Projects and Programs"
     desc: "This committee is responsible for finding and arranging programs and presentations at meetings. If you have a program and want to show it to the club, or if you have some ideas but want to talk it out, please contact the committee chairperson."
@@ -70,6 +75,7 @@ committees:
       - name: "Eric Hahn"
         img: /assets/img/committees/hahn.jpg
       - name: "Ariel Carter"
+        img: /assets/img/committees/carter.jpg
   - name: "Equipment"
     desc: "This committee keeps track of, maintains, and repairs club equipment (helmets, lights, etc.)."
     contact: "mailto:equipment@vpicaveclub.org"
