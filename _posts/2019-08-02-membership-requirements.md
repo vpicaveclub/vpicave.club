@@ -23,3 +23,11 @@ To advance from the training program as a prospective member to a member with fu
 11. Pass a comprehensive general quiz.
 12. Be endorsed by an active member in good standing.
 13. Be approved by a two-thirds vote of the active membership.
+
+# Prospective Member Resources
+
+These resources are required for prospective members in the path to becoming a member. Please keep the skills requirement sheet and trip sheet with you on all cave trips so that members can sign off on the trip. The prospective member guide will have most of the required information for attaining membership.
+
+* [Skills Requirement Sheet (Please Print)](https://docs.google.com/document/d/1AKEIzcqgfpNFF18VWerEZyUYdZvZ1e7S13Jax4MmZdo)
+* [40 Hour Trip Sheet (Please Print)](https://drive.google.com/open?id=1j2y4vxiPCI6bdbRN_hySZ_8_xdPqdsr-)
+* [Prospective Member Manual](https://drive.google.com/file/d/1o5xEle7ZasEu5WDF_cFybOE1f6W9Zq7W)
