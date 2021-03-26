@@ -8,7 +8,7 @@ category: Members
 
 # Constitution and Bylaws
 
-The current constitution can be found in the latest [TROG Prospective Member Guide](https://drive.google.com/file/d/1o5xEle7ZasEu5WDF_cFybOE1f6W9Zq7W/view).
+The current constitution can be found on [SIVTAC](http://sivtac.org/wiki/doku.php?id=sivtac:constitutions).
 
 # Amendments
 
