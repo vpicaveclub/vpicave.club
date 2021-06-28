@@ -8,13 +8,7 @@ category: Members
 
 # Joining the List
 
-You will need to login to your VT or Google account before going forward.
-
-To join the new discussion group visit our [Google Groups Page](https://groups.google.com/a/vt.edu/d/forum/cave-club-g) and then click **Apply For Membership**. Add a comment with the following information:
-* Your full name
-* How you you found the club
-
-Your request should be processed by an officer within a week (normally 24-48 hours).
+Please contact an exec member of the VPI Cave Club to be added to the list.
 
 # Contributing to Discussions
 
