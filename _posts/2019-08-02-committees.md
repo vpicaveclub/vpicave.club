@@ -48,7 +48,7 @@ committees:
       - name: "Madeleine Pels"
         img: /assets/img/committees/pels.jpg
       - name: "Meredith Blanco"
-        img: /assets/img/comittees/blanco.jpg
+        img: /assets/img/committees/blanco.jpg
   - name: "Projects and Programs"
     desc: "This committee is responsible for finding and arranging programs and presentations at meetings. If you have a program and want to show it to the club, or if you have some ideas but want to talk it out, please contact the committee chairperson."
     contact: "mailto:program@vpicaveclub.org"
