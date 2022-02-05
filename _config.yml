@@ -15,7 +15,7 @@ permalink: /:slugified_categories/:title
 
 info:
   display: true
-  date: "June 12, 2020"
-  title: "COVID-19 Advisory"
-  message: "VPI Cave Club has limited some of our activities due to COVID-19."
-  link: /members/advisory
+  date: "Feb 4, 2022"
+  title: "VPI Cave Club Banquet"
+  message: "VPI Cave Club is nearing its annual banquet."
+  link: /members/banquet
