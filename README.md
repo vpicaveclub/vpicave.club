@@ -1,6 +1,6 @@
 # vpicave.club
 
-This is the official website for the VPI Cave Club. The website was created using [Jekyll](https://jekyllrb.com) and [Bootstrap](https://getbootstrap.com) and can be maintained easily simply by editing markdown files. Jekyll was picked for the simplicity of content modification and the seperation of template and content.
+This is the official website for the VPI Cave Club. Jekyll was picked for the simplicity of content modification and the seperation of template and content.
 
 ## Install Dependencies
 
