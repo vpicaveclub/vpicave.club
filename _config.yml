@@ -15,7 +15,7 @@ permalink: /:slugified_categories/:title
 
 info:
   display: true
-  date: "Feb 4, 2022"
-  title: "VPI Cave Club Banquet"
-  message: "VPI Cave Club is nearing its annual banquet."
-  link: /members/banquet
+  date: "Oct 1, 2022"
+  title: "VAR 2022"
+  message: "VPI Cave Club is hosting VAR 2022."
+  link: https://var.vpicave.club/e/1/

@@ -28,7 +28,11 @@
             <p>The club has many official and non-official committees, some which are maintained all semester and some which arise for a particular event. We encourage everyone, especially prospective members, to join a committee to help make our club run more smoothly so we can have more fun! This is a great way to support the club, get more involved, and get to know us better. Please note that the executive positions are voted on, and the committee chairs are appointed by the president.</p>
             <!-- Iterate through the committees -->
             {% for com in page.committees %}
+            {% if com.contact %}
             <a href="{{ com.contact }}"><h2 id="{{ com.name | slugify }}">{{ com.name }}</h2></a>
+            {% else %}
+            <h2 id="{{ com.name | slugify }}">{{ com.name }}</h2>
+            {% endif %}
             <p>{{ com.desc }}</p>
             <div class="row">
                 {% for per in com.members %}
