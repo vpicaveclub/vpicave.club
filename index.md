@@ -23,8 +23,6 @@ Each cave trip offers a different experience. Some are more difficult than other
 
 # Meetings
 
-In normal semesters, the VPI Cave Club meets at 7:00pm in **Smyth 146** on the Virginia Tech campus Friday nights. The club meets when the university is in session, and normally does not have summer or winter meetings.
+In normal semesters, the VPI Cave Club meets at 7:00pm in **Torgersen 1020** on the Virginia Tech campus Friday nights. The club meets when the university is in session, and normally does not have summer or winter meetings.
 
 We highly encourage prospective members to attend one of these meetings. There is no prerequisite for joining, or coming to a meeting.
-
-Because of the COVID-19 pandemic, we await instruction from Virginia Tech administration on how to best handle meetings for future semesters. It is likely that meetings will be hosted online.
