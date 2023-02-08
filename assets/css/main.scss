@@ -1,9 +1,8 @@
 ---
 ---
 
-@import "main";
+@import "base";
 @import "bootstrap/scss/bootstrap";
-@import "assets/css/variables.scss";
 
 @mixin dark-mode {
     .vpi-scheme {
