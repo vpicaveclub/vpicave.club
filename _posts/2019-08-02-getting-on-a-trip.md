@@ -12,7 +12,7 @@ The best way to get on a trip with us is to attend one of our meetings. Informat
 
 The trip leader will tell you what to bring, what to wear, and where to meet for the trip. On your first few trips we will provide you with a helmet and a helmet-mounted light.
 
-Our beginner trips usually set out Saturday or Sunday morning from Smythe 146. Although beginner trips usually spend only a few hours underground, plan to be gone most of the afternoon; if everyone’s having a great time, you might stay underground longer. If the trip leader is planning a trip which is particularly short or long, you’ll know in advance.
+Our beginner trips usually set out Saturday or Sunday morning from our signout location near campus. Although beginner trips usually spend only a few hours underground, plan to be gone most of the afternoon; if everyone’s having a great time, you might stay underground longer. If the trip leader is planning a trip which is particularly short or long, you’ll know in advance.
 
 # Can't Attend a Meeting?
 
