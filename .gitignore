@@ -3,3 +3,6 @@ Gemfile.lock
 _site/
 node_modules/
 .DS_Store
+.bundle
+.jekyll-metadata
+.sass-cache

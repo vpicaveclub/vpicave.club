@@ -1,0 +1,35 @@
+- title: "VPI Cave Club"
+  url: "index.html"
+  side: left
+
+- title: "Go Caving"
+  url: "go-caving/"
+  side: right
+
+- title: "Learning Resources"
+  url: "learning-resources/"
+  side: right
+  dropdown:
+  - title: "Your First Caving Trip"
+    url: "your-first-trip/"
+    
+- title: "Membership"
+  url: "membership/"
+  side: right
+
+- title: "Club Store"
+  url: "https://docs.google.com/spreadsheets/d/1pOwV2vXh7Wj1WMEPrksqYGyEGBM8l04dQMeSEdz1YtA"
+  side: right
+
+- title: "About"
+  url: "index.html"
+  side: right
+  dropdown:
+  - title: "Officers & Committees"
+    url: "officers-and-committees/"
+  - title: "Constitution & Bylaws"
+    url: "constitution-and-bylaws/"
+
+- title: "Contact Us"
+  url: "contact-us/"
+  side: right

@@ -1,58 +1,65 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US " }}">
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{"/assets/css/main.css" | relative_url }}">
-</head>
+					{% if page.image.caption_url and page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
 
-<body class="vpi-scheme">
-    <main role="main">
-        {% if site.info.display %}
-        {% include info.html %}
-        {% endif %}
-        {% include navbar.html %}
-        <div id="page-header" class="container-fluid">
-            <span id="text-overlay">
-                <h2>{{ page.title | upcase }}</h2>
-                <p class="small">{{ page.desc }}</p>
-            </span>
+				<div itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
 
-            <img class="img-fluid" src="{{page.image | relative_url}}" />
-        </div>
 
-        <div class="container-fluid page-content">
-            {{ content }}
-        </div>
-    </main>
+			{% if page.teaser %}
+			<p class="teaser" itemprop="description">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
 
-    <script src="{{'node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
-    <script src="{{'node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
-    <script src="{{'node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
-    <script src="{{'node_modules/js-cookie/src/js.cookie.js' | prepend: site.baseurl}}"></script>
+			<div itemprop="articleSection">
+			{{ content }}
+			</div>
 
-    {% if site.info.display %}
-    <!-- Script for optional toast -->
-    <script>
-        $(document).ready(function(){
-            if (Cookies.get('info-hide') != 'true') {
-                $('#infotoast').toast({
-                    autohide: false
-                })
-                $('#infotoast').toast('show')
-            } else {
-                $('#infoparent').remove()
-            }
-        })
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
 
-        $('#infotoast').on('hidden.bs.toast', function () {
-            Cookies.set('info-hide', 'true', { expires: 3 })
-            $('#infoparent').remove()
-        })
-    </script>
-    {% endif %}
-</body>
+			{% if page.comments == true %}
+			{% include _comments.html %}
+			{% endif %}
+		</article>
+	</div><!-- /.medium-8.columns -->
 
-</html>
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->

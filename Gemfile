@@ -1,9 +1,13 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem 'jekyll'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+group :jekyll_plugins do
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem "jekyll-asciidoc"
+end
 
-gem "jekyll"
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'
 
-gem "webrick", "~> 1.7"
