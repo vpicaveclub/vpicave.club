@@ -11,10 +11,10 @@ The easiest way to get underground is to come with us on a club trip! If you are
 
 # Club Trips
 We announce club trips in two main ways: 
-- At our weekly meetings (see our [home page](index.html)) 
-- On our social media channels (see our [contact page](contact-us/))
+- At our weekly meetings (see our [home page](/index.html)) 
+- On our social media channels (see our [contact page](/contact-us/))
 
-If you need to prepare for your first (or first few) trips, read our guide [on this page](your-first-trip/).
+If you need to prepare for your first (or first few) trips, read our guide [on this page](/your-first-trip/).
 
 Beginner trips usually set out on Saturday or Sunday morning from near campus. Although we typically spend only a few hours underground, plan to be gone most of the afternoon. If everyone’s having a great time, you might stay underground longer!
 

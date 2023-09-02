@@ -8,7 +8,7 @@ permalink: /learning-resources/
 
 The VPI cave club is known and renowned across the caving community globally for our rigorous training program, designed to ensure safety and competency underground. Below are some introductory resources we have compiled so that prospective members can become more familiar with the skills they need:
 
-- For general procedures and equipment needed, take a look at the [Your First Cave Trip](your-first-trip) page.
+- For general procedures and equipment needed, take a look at the [Your First Cave Trip](/your-first-trip) page.
 
 - [Learn Knots](https://www.animatedknots.com/complete-knot-list)
 
