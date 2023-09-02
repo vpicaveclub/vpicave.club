@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-    image_fullwidth: cave.jpg
+    image_fullwidth: "cave.jpg"
     title: "Go Caving"
 permalink: /go-caving/
 ---

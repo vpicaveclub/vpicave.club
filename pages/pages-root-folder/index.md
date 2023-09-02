@@ -2,7 +2,7 @@
 layout: page
 header:
   title: "VPI Cave Club"
-  image_fullwidth: stalactites.jpg
+  image_fullwidth: "stalactites.jpg"
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

@@ -1,7 +1,7 @@
 ---
 layout: page
 header: 
-    image_fullwidth: caving.jpg
+    image_fullwidth: "caving.jpg"
     title: "Your First Caving Trip"
 permalink: /your-first-trip/
 ---

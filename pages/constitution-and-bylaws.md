@@ -3,7 +3,7 @@ layout: page
 subheadline: "Constitution and Bylaws"
 title: "The VPI Cave Club Constitution"
 header:
-    image_fullwidth: old-constitution.png
+    image_fullwidth: "old-constitution.png"
     title: ""
 permalink: /constitution-and-bylaws/
 ---

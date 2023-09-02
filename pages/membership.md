@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-    image_fullwidth: descent.jpg
+    image_fullwidth: "descent.jpg"
     title: "Membership"
 permalink: /membership/
 ---
