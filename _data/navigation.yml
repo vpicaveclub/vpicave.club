@@ -1,5 +1,5 @@
 - title: "VPI Cave Club"
-  url: "/index.html"
+  url: "/"
   side: left
 
 - title: "Go Caving"
@@ -22,7 +22,7 @@
   side: right
 
 - title: "About"
-  url: "/index.html"
+  url: "/"
   side: right
   dropdown:
   - title: "Officers & Committees"
