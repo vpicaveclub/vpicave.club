@@ -21,12 +21,12 @@ The VPI cave club is known and renowned across the caving community globally for
 
 - [Derek Bristol's Overview of Changeovers](https://youtu.be/eP8Gxa9BMW0?si=InHAwBikAkwXTEiv)
  
-- More skills can be found on our [Prospective Member Manual](https://drive.google.com/file/d/1o5xEle7ZasEu5WDF_cFybOE1f6W9Zq7W) (also called the Trainee Trog). These include skills such as:
+- More skills can be found on our [Prospective Member Manual](/assets/files/Trainee Trog 2015-2018.pdf) (also called the Trainee Trog). These include skills such as:
     - How to tie a seat with webbing
     - How to rig and pad a rope correctly
 
 Further Reading: 
-- [Prospective Member Manual ("Trainee Trog")](https://drive.google.com/file/d/1o5xEle7ZasEu5WDF_cFybOE1f6W9Zq7W)
+- [Prospective Member Manual ("Trainee Trog")](/assets/files/Trainee Trog 2015-2018.pdf)
 - Caving Technical Guide (ISBN: 2900894263)
 - Alpine Caving Techniques (ISBN: 3908495105)
 
