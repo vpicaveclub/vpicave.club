@@ -17,6 +17,10 @@
   url: "/membership/"
   side: right
 
+- title: "Calendar"
+  url: "/calendar/"
+  side: right
+
 - title: "Club Store"
   url: "https://docs.google.com/spreadsheets/d/1hwP4ieJrpcwRBwUFiOQPhItz24XRkBtrnh4_UDiuaUY"
   side: right

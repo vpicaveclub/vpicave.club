@@ -1,13 +1,14 @@
 ---
 layout: page
-subheadline: "Contact Us"
-title: "Get in touch!"
-header: no
+header:
+    image_fullwidth: "cave-life.jpg"
+    title: "Contact Us"
+subheadline: "Get in touch!"
 permalink: /contact-us/
 ---
 
 ### Meetings
-During the school year, the VPI Club has weekly meetings every **Friday** at **7pm** in **Torgersen Hall 1020**. The club meets only when the university is in session, and does not have formal meetings in the summer or winter. Outside of meetings, the club hangs out, plans cave trips, and causes riffraff on the platforms listed below.
+During the school year, the VPI Club has weekly meetings every **Friday** at **7pm** in **Torgersen Hall 1020**. The club meets only when the university is in session, and does not have formal meetings in the summer or winter. Outside of meetings, the club hangs out, plans cave trips, and sows chaos on the platforms listed below.
 
 ### Instagram
 [@vpi.caveclub](https://www.instagram.com/vpi.caveclub/?hl=en) for trip pics, updates, and the occasional meme.

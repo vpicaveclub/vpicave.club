@@ -9,23 +9,23 @@ permalink: /officers-and-committees/
 <br>
 <div class="row">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}mccarter.jpg" alt="">
-        <p><b>President</b><br>Sam McCarter</p>
+        <img src="{{ site.urlimg }}cornish.jpg" alt="">
+        <p><b>President</b><br>Gracie Cornish</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4  columns">
-        <img src="{{ site.urlimg }}manalel.jpg" alt="">
-        <p><b>Vice President</b><br>Jerin Manalel</p>
+        <img src="{{ site.urlimg }}rose.jpg" alt="">
+        <p><b>Vice President</b><br>Ned Rose</p>
     </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 <br>
 <div class="row">
     <div class="medium-4  columns">
-        <img src="{{ site.urlimg }}alzubi.jpg" alt="">
-        <p><b>Treasurer</b><br>Liz Alzubi</p>
+        <img src="{{ site.urlimg }}mccarter.jpg" alt="">
+        <p><b>Treasurer</b><br>Sam McCarter</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4  columns">
-        <img src="{{ site.urlimg }}alzubi.jpg" alt="">
-        <p><b>Secretary</b><br>Liz Alzubi</p>
+        <img src="{{ site.urlimg }}rashid.jpg" alt="">
+        <p><b>Secretary</b><br>George Rashid</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
@@ -34,8 +34,8 @@ permalink: /officers-and-committees/
 <br>
 <div class="row">
     <div class="medium-4  medium-centered columns">
-        <img src="{{ site.urlimg }}steinberg.jpg" alt="">
-        <p>Eric Steinberg</p>
+        <img src="{{ site.urlimg }}moneyhun.jpg" alt="">
+        <p>Phillip Moneyhun</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
@@ -43,8 +43,8 @@ permalink: /officers-and-committees/
 <br>
 <div class="row">
     <div class="medium-4  medium-centered columns">
-        <img src="{{ site.urlimg }}hollingsworth.jpg" alt="">
-        <p>Gary Hollingsworth</p>
+        <img src="{{ site.urlimg }}centofanti.jpg" alt="">
+        <p>Matthew Centofanti</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
