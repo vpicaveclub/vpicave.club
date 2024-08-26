@@ -37,7 +37,7 @@ To gain your membership, you must pass certain requirements. These may seem like
 In your quest to become a member, you will need current members to sign off your completion of the requirements listed above. You will also need to keep track of your cave trips and be signed off on those as well. Please print off the files below and keep the skills requirement sheet and trip sheet handy so that you can get them signed off after trips.
 
 Please print these pages:
-- [Skills Requirement Sheet](/assets/files/2024 VPI Cave Club Membership Sign-off Sheet.pdf)
+- [Skills Requirement Sheet](/assets/files/2024 VPI Cave Club Membership Sign-off Sheet V2.0.pdf)
 - [40 Hour Trip Sheet](/assets/files/VPI Cave Club Membership Hours Sheet.pdf)
 
 As an additional learning resource, you may wish to look at the the prospective member guide (also referred to as the "Trainee Trog") from a few years ago. This guide will have most of the required information for attaining membership.
