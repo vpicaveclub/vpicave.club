@@ -23,6 +23,6 @@ With the club, you can explore this fascinating underground world and learn how 
 
 # Meetings
 
-In normal semesters, the VPI Cave Club meets on Friday evenings at 7:00pm in **Smyth Hall 176** on the Virginia Tech campus. The club meets when the university is in session, and normally does not have summer or winter meetings.
+In normal semesters, the VPI Cave Club meets on Friday evenings at 7:00pm in **Smyth Hall 146** on the Virginia Tech campus. The club meets when the university is in session, and normally does not have summer or winter meetings.
 
 We highly encourage prospective members to attend one of these meetings. There is no prerequisite for joining, or coming to a meeting!
